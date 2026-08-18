@@ -1,0 +1,31 @@
+# Excel Files
+*.xlsx
+*.xls
+*.xlsm
+
+# Python Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output files (optional - comment out if you want to track these)
+# *_median_water_depth_*.csv

@@ -1,0 +1,704 @@
+﻿ID;lat;long;altitude;median_water_depth;name;description;aquifer_name;confinement
+335629078115406;33.94111111;-78.19861111;11.2776;3.240024;BR-079 SUNSET HARBOR RS (PEEDEE);https://cida.usgs.gov/ngwmn/provider/USGS/site/335629078115406/;Peedee Formation;Confined
+335631078003604;33.94194444;-78.00972222;8.558784;6.839712;BR-081 (NC-197) SOUTHPORT RS (PEEDEE);https://cida.usgs.gov/ngwmn/provider/USGS/site/335631078003604/;Peedee Formation;Confined
+335631078003605;33.94194444;-78.00972222;8.613648;6.449568;BR-082 (NC-198) SOUTHPORT RS (CASTLE HAYNE);https://cida.usgs.gov/ngwmn/provider/USGS/site/335631078003605/;Castle Hayne Limestone;Confined
+335849078054301;33.98027778;-78.09527778;16.623792;11.463528;BR-100 WELL 15A (CASTLE HAYNE/PEEDEE);https://cida.usgs.gov/ngwmn/provider/USGS/site/335849078054301/;Peedee Formation;Confined
+340416078084202;34.07138889;-78.14486111;12.192;2.837688;BR-078 (NC-180) NCDEQ BOLIVIA RS FF33D2 (PEEDEE);https://cida.usgs.gov/ngwmn/provider/USGS/site/340416078084202/;Peedee Formation;Confined
+344520079281001;34.755;-79.46722222;64.3128;3.745992;SC-040 AT LAURINBURG, NC (BLACK CREEK);https://cida.usgs.gov/ngwmn/provider/USGS/site/344520079281001/;Black Creek Aquifer;Confined
+344544079263701;34.76222222;-79.44361111;64.3128;5.640324;SC-142 AT LAURINBURG, NC (BLACK CREEK);https://cida.usgs.gov/ngwmn/provider/USGS/site/344544079263701/;Black Creek Aquifer;Confined
+345051078012109;34.84777778;-78.02097222;25.908;2.075688;DU-157 ROSE HILL RS V32v9 (NC-222R) (SURFICIAL);https://cida.usgs.gov/ngwmn/provider/USGS/site/345051078012109/;Post Miocene (Quaternary + Pliocene) Rocks;Unconfined
+345809077301408;34.97;-77.50333333;19.952208;1.740408;JO-035 (NC-173), NCDENR COMFORT RS (SURFICIAL);https://cida.usgs.gov/ngwmn/provider/USGS/site/345809077301408/;Post Miocene (Quaternary + Pliocene) Rocks;Unconfined
+345812079313401;34.97055556;-79.52833333;131.15544;9.244584;SC-080 (NC-194) NR MARSTON, NC (BLACK CREEK);https://cida.usgs.gov/ngwmn/provider/USGS/site/345812079313401/;Black Creek Aquifer, Upper;Unconfined
+351121083545002;35.18916667;-83.91388889;523.25016;1.69164;CE-029 (NC-192) AT MARBLE, NC (REGOLITH);https://cida.usgs.gov/ngwmn/provider/USGS/site/351121083545002/;Regolith;Unconfined
+351709082434101;35.28583333;-82.72805556;663.48864;4.255008;TR-066 (NC-147) PISGAH FOREST (ALLUVIUM);https://cida.usgs.gov/ngwmn/provider/USGS/site/351709082434101/;Regolith;Unconfined
+351808082374302;35.30277778;-82.62833333;654.558;8.887968;TR-065 (NC-144) AT BLANTYRE, NC (REGOLITH);https://cida.usgs.gov/ngwmn/provider/USGS/site/351808082374302/;Regolith;Unconfined
+351849078163901;35.30972222;-78.27277778;56.60136;1.223772;WA-154 (NC-148) NR GRANTHAM, NC (SURFICIAL);https://cida.usgs.gov/ngwmn/provider/USGS/site/351849078163901/;Post Miocene (Quaternary + Pliocene) Rocks;Unconfined
+352012081154301;35.33680556;-81.26206944;284.006544;11.530584;GS-289 PASOUR MTN RS REGOLITH WELL, PM-25;https://cida.usgs.gov/ngwmn/provider/USGS/site/352012081154301/;Regolith;Unconfined
+352012081154302;35.33680556;-81.26206944;282.189936;9.87552;GS-290 PASOUR MTN RS TRANSITION ZONE WELL, PM-3;https://cida.usgs.gov/ngwmn/provider/USGS/site/352012081154302/;Transition Zone;Unconfined
+353135080524201;35.52638889;-80.87833333;244.81536;5.361432;IR-130 LANGTREE RS MW-2S NR MT MOURNE (REGOLITH);https://cida.usgs.gov/ngwmn/provider/USGS/site/353135080524201/;Regolith;Unconfined
+353135080524202;35.52666667;-80.87833333;244.7544;5.34924;IR-131 LANGTREE RS MW-2I (TRANSITION ZONE);https://cida.usgs.gov/ngwmn/provider/USGS/site/353135080524202/;Transition Zone;Unconfined
+353135080524203;35.52666667;-80.87833333;244.66296;6.9342;IR-132 LANGTREE RS MW-2D (QUARTZ DIORITE);https://cida.usgs.gov/ngwmn/provider/USGS/site/353135080524203/;Intermediate Intrusive Igneous Rock;Confined
+353219077153801;35.53833333;-77.26138889;16.770096;1.161288;PI-532 (NC-160) NR SIMPSON, NC (SURFICIAL);https://cida.usgs.gov/ngwmn/provider/USGS/site/353219077153801/;Post Miocene (Quaternary + Pliocene) Rocks;Unconfined
+353827076293001;35.6407583;-76.49165278;3.3528;0.246888;HY-194 AT POCOSIN LAKES NWR (SURFICIAL);https://cida.usgs.gov/ngwmn/provider/USGS/site/353827076293001/;Post Miocene (Quaternary + Pliocene) Rocks;Unconfined
+354057080362601;35.68278333;-80.60704722;206.07528;2.069592;RO-149 (NC-193) PIEDMONT RS 1 NR BARBER (REGOLITH);https://cida.usgs.gov/ngwmn/provider/USGS/site/354057080362601/;Regolith;Unconfined
+354133082042201;35.69261111;-82.07294444;409.8036;8.970264;MC-107 NEAR PLEASANT GARDENS RS, NC (REGOLITH);https://cida.usgs.gov/ngwmn/provider/USGS/site/354133082042201/;Regolith;Unconfined
+354133082042203;35.69261111;-82.07294444;409.83408;9.000744;MC-109 NEAR PLEASANT GARDENS, NC (BEDROCK);https://cida.usgs.gov/ngwmn/provider/USGS/site/354133082042203/;Bedrock Undifferentiated;Unconfined
+354302081433201;35.71722222;-81.72555556;315.83376;2.426208;BK-126 GLEN ALPINE RS NEAR MORGANTON, NC (BEDROCK);https://cida.usgs.gov/ngwmn/provider/USGS/site/354302081433201/;Bedrock Undifferentiated;Unconfined
+354302081433202;35.7172222;-81.7255556;315.68136;3.401568;BK-127 GLEN ALPINE RS NR MORGANTON, NC (REGOLITH);https://cida.usgs.gov/ngwmn/provider/USGS/site/354302081433202/;Regolith;Unconfined
+354418076463601;35.73888889;-76.77527778;10.158984;0.771144;WS-100 (NC-158) NR HOKE, NC (SURFICIAL);https://cida.usgs.gov/ngwmn/provider/USGS/site/354418076463601/;Post Miocene (Quaternary + Pliocene) Rocks;Unconfined
+355359080331701;35.89981944;-80.55478056;253.499112;5.05968;DV-025 (NC-142) NR MOCKSVILLE, NC (REGOLITH);https://cida.usgs.gov/ngwmn/provider/USGS/site/355359080331701/;Regolith;Unconfined
+355457078232701;35.9158333;-78.3908333;93.5736;2.328672;WK-432 PULLEY TOWN RD NR ROLESVILLE, NC (BEDROCK);https://cida.usgs.gov/ngwmn/provider/USGS/site/355457078232701/;Felsic Intrusive Igneous Rock;Unconfined
+355944079013401;35.99569167;-79.02604722;148.16328;11.073384;OR-691 DUKE FOREST RS DF-1I NR EUBANKS, NC (TR ZN);https://cida.usgs.gov/ngwmn/provider/USGS/site/355944079013401/;Transition Zone;Unconfined
+361829076163201;36.30833333;-76.27527778;3.6576;1.240536;PK-141 (NC-195) NR ELIZABETH CITY, NC (SURFICIAL);https://cida.usgs.gov/ngwmn/provider/USGS/site/361829076163201/;Post Miocene (Quaternary + Pliocene) Rocks;Unconfined
+AA27L1;34.452033;-77.615114;19.5962016;7.799832;Topsail Fire Tower;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/AA27L1/;Surficial (S);Unconfined
+AA27L2;34.452033;-77.615114;19.5748656;10.274808;Topsail Fire Tower;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/AA27L2/;Castle Hayne (Tch);Confined
+AA27L3;34.452033;-77.615114;19.5200016;10.966704;Topsail Fire Tower;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/AA27L3/;Peedee (Kpd);Confined
+AA27L4;34.452033;-77.615114;19.5169536;10.680192;Topsail Fire Tower;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/AA27L4/;Peedee (Kpd);Confined
+AA32R1;34.44595;-78.03817;5.2294536;2.340864;Long Creek;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/AA32R1/;Surficial (S);Unconfined
+AA32R2;34.44595;-78.03817;6.0005976;-0.207264;Long Creek;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/AA32R2/;Black Creek (Kbc);Confined
+AA32R3;34.44595;-78.03817;4.8393096;2.822448;Long Creek;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/AA32R3/;Peedee (Kpd);Confined
+AA32R4;34.44595;-78.03817;5.1105816;-0.51816;Long Creek;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/AA32R4/;Upper Black Creek (Kubc);Confined
+AA35N1;34.455982;-78.307832;7.7227176;1.970532;Kelly;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/AA35N1/;Surficial;Unconfined
+AA35N2;34.455982;-78.307832;7.5794616;-11.55192;Kelly;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/AA35N2/;Lower Cape Fear;Confined
+AA35N3;34.455982;-78.307832;8.8504776;2.286;Kelly;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/AA35N3/;Peedee;Confined
+AA35N4;34.455982;-78.307832;8.2317336;2.157984;Kelly;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/AA35N4/;Surficial;Unconfined
+AA35N5;34.455982;-78.307832;8.1555336;-0.765048;Kelly;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/AA35N5/;Black Creek (Kbc);Confined
+AA35N6;34.455982;-78.307832;8.2317336;-1.170432;Kelly;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/AA35N6/;Upper Cape Fear (Kucf);Confined
+AA39V1;34.418763;-78.602503;31.947612;6.163056;Carver Moore;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/AA39V1/;Surficial;Unconfined
+AA39V2;34.418763;-78.602503;31.892748;14.67612;Carver Moore;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/AA39V2/;Upper Cape Fear;Confined
+AA39V3;34.418763;-78.602503;31.926276;12.673584;Carver Moore;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/AA39V3/;Black Creek;Confined
+AA39V4;34.418763;-78.602503;31.990284;11.152632;Carver Moore;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/AA39V4/;Upper Black Creek;Confined
+AA43Q1;34.439458;-78.971663;24.36876;18.193512;Boardman;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/AA43Q1/;Upper Cape Fear;Confined
+B10K1;36.536716;-76.17539;1.743456;3.255264;Shingle Landing;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/B10K1/;Beaufort (Tb);Confined
+B10K2;36.536716;-76.17539;1.743456;0.722376;Shingle Landing;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/B10K2/;Surficial (S);Unconfined
+B10R1;36.523704;-76.206839;3.8179248;5.335524;Moyock;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/B10R1/;Upper Cape Fear;Confined
+B20U5;36.507222;-77.005833;20.0869296;23.887176;Como;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/B20U5/;Upper Cape Fear;Confined
+B20U6;36.507222;-77.005833;20.7209136;42.028872;Como;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/B20U6/;Lower Cape Fear;Confined
+B20U7;36.507222;-77.005833;21.1567776;42.044112;Como;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/B20U7/;Lower Cape Fear;Confined
+B20U8;36.507222;-77.005833;21.4036656;4.453128;Como;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/B20U8/;Surficial;Unconfined
+B39X1;36.50738;-78.64017;116.9084784;6.84276;Wallace Vaughan;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/B39X1/;Bedrock;Unconfined
+BB28J2;34.399976;-77.67817;18.1057296;12.441936;Topsail Beach;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/BB28J2/;Peedee;Confined
+BB28J3;34.399976;-77.67817;18.0417216;10.869168;Topsail Beach;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/BB28J3/;Black Creek;Confined
+BB28J4;34.399976;-77.67817;18.0478176;7.546848;Topsail Beach;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/BB28J4/;Castle Hayne;Confined
+BB28J5;34.399976;-77.67817;18.0508656;2.307336;Topsail Beach;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/BB28J5/;Surficial;Unconfined
+BB45M2;34.373223;-79.127359;27.5999448;13.941552;Marietta;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/BB45M2/;Upper Cape Fear;Confined
+BB45M3;34.373223;-79.127359;27.6700488;8.119872;Marietta;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/BB45M3/;Black Creek;Confined
+BB45M4;34.373223;-79.127359;27.5237448;6.807708;Marietta;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/BB45M4/;Black Creek;Confined
+BB45M5;34.373223;-79.127359;27.6212808;3.514344;Marietta;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/BB45M5/;Peedee;Confined
+BB45M6;34.373223;-79.127359;27.5603208;2.097024;Marietta;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/BB45M6/;Surficial;Unconfined
+C12W2;36.431549;-76.375628;3.4357056;1.453896;Morgans Corner;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/C12W2/;Yorktown;Confined
+C12W4;36.431549;-76.375628;3.4143696;6.373368;Morgans Corner;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/C12W4/;Castle Hayne;Confined
+C12W5;36.431549;-76.375628;3.3229296;24.594312;Morgans Corner;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/C12W5/;Lower Cape Fear;Confined
+C12W6;36.431549;-76.375628;3.3991296;7.8486;Morgans Corner;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/C12W6/;Upper Cape Fear;Confined
+C16S1;36.4406;-76.6997;10.0584;15.663672;Merchants Millpond State Park;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/C16S1/;Upper Cape Fear;Confined
+C16S2;36.4406;-76.6997;10.0584;10.213848;Merchants Millpond State Park;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/C16S2/;Beaufort;Confined
+C16S3;36.4406;-76.6997;10.0584;10.247376;Merchants Millpond State Park;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/C16S3/;Castle Hayne;Confined
+C16S4;36.4406;-76.6997;10.0584;5.519928;Merchants Millpond State Park;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/C16S4/;Yorktown;Confined
+C16S5;36.4406;-76.6997;10.0584;3.755136;Merchants Millpond State Park;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/C16S5/;Surficial;Unconfined
+C16S6;36.440501;-76.699652;10.0584;31.741872;Merchants Millpond State Park;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/C16S6/;Lower Cape Fear;Confined
+C23Y1;36.42726;-77.31878;32.8595736;3.67284;Northampton East High School;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/C23Y1/;Surficial;Unconfined
+C26N2;36.45535;-77.56018;39.624;4.453128;Garysburg Well 2;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/C26N2/;Surficial;Unconfined
+C30P1;36.433399;-77.91389;119.0664624;4.483608;Littleton;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/C30P1/;Bedrock;Unconfined
+C31Y1;36.42048;-77.9992;107.3926224;4.212336;Vaughan Elementary School;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/C31Y1/;Bedrock;Unconfined
+C33Y1;36.43298;-78.1661;133.4710056;5.462016;Warren County High School;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/C33Y1/;Saprolite;Unconfined
+C34L1;36.45644;-78.18521;127.2954528;6.227064;Northside Elementary;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/C34L1/;Basement rock;Unconfined
+C71U1;36.416674;-81.258856;858.7368144;9.201912;Laurel Springs;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/C71U1/;Bedrock;Unconfined
+CC29L1;34.289688;-77.767845;8.205216;7.545324;Eagle Point;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/CC29L1/;Castle Hayne;Confined
+CC29L2;34.289688;-77.767845;8.16864;9.640824;Eagle Point;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/CC29L2/;Peedee;Confined
+CC29L3;34.289688;-77.767845;8.025384;2.054352;Eagle Point;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/CC29L3/;Surficial;Unconfined
+CC29L4;34.289688;-77.767845;7.888224;9.674352;Eagle Point;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/CC29L4/;Peedee;Confined
+CC30E1;34.3306;-77.90123;7.5428856;2.602992;Northern Regional Park;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/CC30E1/;Surficial (S);Unconfined
+CC30E2;34.3306;-77.90123;7.5459336;3.745992;Northern Regional Park;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/CC30E2/;Peedee (Kpd);Confined
+CC30E3;34.3306;-77.90123;7.3813416;2.551176;Northern Regional Park;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/CC30E3/;Peedee (Kpd);Confined
+CC31U1;34.26499;-77.92259;6.711696;2.69748;New Hanover Correctional Institute;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/CC31U1/;Surficial;Unconfined
+CC33O2;34.289277;-78.156671;18.080736;4.559808;Maco;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/CC33O2/;Peedee;Confined
+CC33O5;34.289277;-78.156671;17.772888;0.920496;Maco;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/CC33O5/;Surficial;Unconfined
+CC38B10;34.33;-78.53;19.467576;5.772912;Lake Waccamaw;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/CC38B10/;Peedee;Confined
+CC38B5;34.325959;-78.529773;19.02714;0.82296;Lake Waccamaw;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/CC38B5/;Surficial;Unconfined
+CC38B6;34.325959;-78.529773;19.374612;5.305044;Lake Waccamaw;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/CC38B6/;Peedee;Confined
+CC38B7;34.325959;-78.529773;20.203668;-0.408432;Lake Waccamaw;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/CC38B7/;Lower Cape Fear;Confined
+CC38B8;34.325959;-78.529773;19.40814;5.763768;Lake Waccamaw;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/CC38B8/;Black Creek;Confined
+CC38B9;34.325959;-78.529773;19.395948;5.370576;Lake Waccamaw;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/CC38B9/;Upper Cape Fear;Confined
+D11V5;36.347527;-76.277474;1.9519392;2.036064;N.C. Forestry HQ;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/D11V5/;Yorktown;Confined
+D20U1;36.345265;-77.002514;15.9736536;28.517088;NC Power;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/D20U1/;Lower Cape Fear;Confined
+D52L1;36.375486;-79.685453;214.752936;6.944868;Upper Piedmont RS;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/D52L1/;Basement saprolite;Unconfined
+D61X1;36.343972;-80.467563;408.136344;13.322808;Pilot Mtn. Well #2;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/D61X1/;Bedrock;Unconfined
+D72Y1;36.333751;-81.415068;868.8348384;1.389888;Beaver Creek;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/D72Y1/;Bedrock;Unconfined
+D7F1;36.3954;-75.9998;1.8288;1.072896;Maple;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/D7F1/;Surficial (S);Unconfined
+D7F2;36.3954;-75.9998;1.8288;17.224248;Maple;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/D7F2/;Yorktown (Ty);Confined
+D7F3;36.3954;-75.9998;1.8288;6.9342;Maple;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/D7F3/;Castle Hayne (Tch);Confined
+DD42N1;34.210698;-78.896111;32.6251824;2.417064;Clarendon;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/DD42N1/;Surficial;Unconfined
+DD42N2;34.210698;-78.896111;32.723328;13.264896;Clarendon;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/DD42N2/;Lower Cape Fear;Confined
+DD42N3;34.210698;-78.896111;32.3996304;28.715208;Clarendon;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/DD42N3/;Upper Cape Fear;Confined
+DD42N4;34.210698;-78.896111;32.3935344;20.884896;Clarendon;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/DD42N4/;Black Creek;Confined
+E10U4;36.250825;-76.177299;2.2094952;2.218944;Elizabeth City (USCGS);https://cida.usgs.gov/ngwmn/provider/NCDWR/site/E10U4/;Yorktown;Confined
+E10U5;36.250825;-76.177299;2.2795992;2.551176;Elizabeth City (USCGS);https://cida.usgs.gov/ngwmn/provider/NCDWR/site/E10U5/;Yorktown;Confined
+E13M1;36.295645;-76.463015;4.898136;2.185416;Four Mile Desert;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/E13M1/;Yorktown;Confined
+E13M2;36.295645;-76.463015;4.742688;23.737824;Four Mile Desert;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/E13M2/;Lower Cape Fear;Confined
+E13M3;36.295645;-76.463015;4.620768;16.258032;Four Mile Desert;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/E13M3/;Castle Hayne;Confined
+E21S1;36.267494;-77.105959;17.4153576;5.180076;St. John;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/E21S1/;Surficial;Unconfined
+E25L1;36.29416;-77.4454;16.6948104;21.997416;Caledonia Prison Farm;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/E25L1/;Lower Cape Fear;Confined
+E25L2;36.29404;-77.44537;16.6490904;6.455664;Caledonia Prison Farm;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/E25L2/;Upper Cape Fear;Confined
+E25L3;36.29408;-77.44532;16.6734744;5.83692;Caledonia Prison Farm;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/E25L3/;Surficial;Unconfined
+E38F1;36.30473;-78.5829;131.6373288;1.994916;Oxford;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/E38F1/;Bedrock;Unconfined
+E61C1;36.33285;-80.46027;316.6564152;19.223736;Grassy Ridge Well;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/E61C1/;Bedrock;Unconfined
+E62U1;36.255882;-80.505147;252.8550696;8.327136;Ivy Bluffs Well;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/E62U1/;Basement rock (Br);Unconfined
+E76Q1;36.27913;-81.7178;1237.739155;19.238976;Tater Hill;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/E76Q1/;Bedrock;Unconfined
+E76Q2;36.27959;-81.71772;1237.888507;8.990076;Tater Hill;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/E76Q2/;Saprolite;Unconfined
+E76Q3;36.279506;-81.717645;1237.760491;19.6596;Tater Hill;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/E76Q3/;Basement rock (Br);Unconfined
+EE30M1;34.123109;-77.871875;1.6087344;1.283208;Myrtle Grove;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/EE30M1/;Surficial (S);Unconfined
+EE30M2;34.123109;-77.871875;1.7794224;3.343656;Myrtle Grove;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/EE30M2/;Peedee (Kpd);Confined
+EE30M3;34.123109;-77.871875;1.7215104;2.96418;Myrtle Grove;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/EE30M3/;Peedee (Kpd);Confined
+EE30P1;34.113155;-77.91664;5.3550312;5.7912;Presidio;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/EE30P1/;Peedee (Kpd);Confined
+EE30P2;34.113155;-77.91664;5.4251352;1.136904;Presidio;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/EE30P2/;Surficial (S);Unconfined
+EE30P3;34.113155;-77.91664;5.3550312;5.769864;Presidio;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/EE30P3/;Peedee (Kpd);Confined
+EE36K2;34.128756;-78.338547;18.391632;-7.732776;Bear Pen;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/EE36K2/;Lower Cape Fear;Confined
+EE36K3;34.128756;-78.338547;18.574512;2.173224;Bear Pen;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/EE36K3/;Peedee;Confined
+EE36K5;34.128756;-78.338547;18.7452;11.119104;Bear Pen;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/EE36K5/;Upper Cape Fear;Confined
+EE36K6;34.128756;-78.338547;18.370296;2.465832;Bear Pen;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/EE36K6/;Peedee;Confined
+EE36K8;34.128756;-78.338547;18.611088;1.473708;Bear Pen;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/EE36K8/;Peedee;Confined
+EE39O1;34.125932;-78.663792;16.1287968;-8.272272;Nakina;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/EE39O1/;Lower Cape Fear (Klcf);Confined
+EE39O2;34.125932;-78.663792;16.4335968;0.780288;Nakina;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/EE39O2/;Surficial (S);Unconfined
+EE39O3;34.125932;-78.663792;16.8328848;11.789664;Nakina;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/EE39O3/;Black Creek (Kbc);Confined
+EE39O4;34.125932;-78.663792;17.6262792;12.978384;Nakina;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/EE39O4/;Peedee;Confined
+EE39O5;34.13;-78.66;17.70888;12.530328;Nakina;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/EE39O5/;Upper Cape Fear;Confined
+EE39O6;34.125932;-78.663792;17.6476152;12.883896;Nakina;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/EE39O6/;Peedee;Confined
+F10K3;36.205757;-76.166895;0.9933432;0.83058;Weeksville Elementary;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/F10K3/;Surficial;Unconfined
+F10K4;36.205757;-76.166895;1.0786872;0.92964;Weeksville Elementary;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/F10K4/;Yorktown;Confined
+F13W1;36.169167;-76.451667;3.7152072;6.266688;Perquimans;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/F13W1/;Castle Hayne;Confined
+F19V2;36.16752;-76.938703;19.9726296;5.109972;Cremo;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/F19V2/;Yorktown;Confined
+F19V3;36.16752;-76.938703;20.0945496;12.406884;Cremo;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/F19V3/;Upper Cape Fear;Confined
+F19V4;36.16752;-76.938703;20.0488296;38.654736;Cremo;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/F19V4/;Lower Cretaceous;Confined
+F19V5;36.16752;-76.938703;19.9634856;32.33928;Cremo;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/F19V5/;Lower Cape Fear;Confined
+F19V6;36.16752;-76.938703;19.9330056;14.130528;Cremo;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/F19V6/;Upper Cape Fear;Confined
+F22B1;36.238763;-77.18695;22.2507048;40.556688;Roxobel;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/F22B1/;Upper Cape Fear;Confined
+F22B2;36.238763;-77.18695;22.1318328;40.535352;Roxobel;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/F22B2/;Lower Cape Fear;Confined
+F22B3;36.238763;-77.18695;22.2571056;1.237488;Roxobel;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/F22B3/;Surficial;Unconfined
+F22B5;36.238763;-77.18695;21.9474288;44.168568;Roxobel;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/F22B5/;Lower Cretaceous;Confined
+F22B7;36.238763;-77.18695;22.1961456;1.712976;Roxobel;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/F22B7/;Surficial;Unconfined
+F43X1;36.174154;-78.977019;169.0884096;4.748784;Caldwell;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/F43X1/;Bedrock;Unconfined
+F62J1;36.22421;-80.50564;309.9331368;9.72312;East Bend VFD;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/F62J1/;Bedrock;Unconfined
+FF32Y1;34.014423;-78.083039;15.069312;1.453896;Boiling Springs RS 2;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/FF32Y1/;Peedee;Confined
+FF32Y2;34.014423;-78.083039;15.14856;1.578864;Boiling Springs RS 2;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/FF32Y2/;Surficial;Unconfined
+FF33D1;34.071389;-78.144796;11.8594632;1.146048;Bolivia;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/FF33D1/;Surficial;Unconfined
+FF33S1;34.024918;-78.101785;15.913608;1.799844;Boiling Springs RS 1;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/FF33S1/;Surficial;Unconfined
+FF34F1;34.053929;-78.236684;13.9442952;3.296412;Clemmons Trail;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/FF34F1/;Peedee;Confined
+FF38J8;34.06;-78.51;20.20824;2.874264;Waccamaw School;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/FF38J8/;Surficial;Unconfined
+FF38X5;34.00168;-78.558532;13.1411472;2.023872;Long Wood;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/FF38X5/;Surficial;Unconfined
+G15E1;36.165368;-76.650354;11.564112;8.333232;DF Walker Elementary School;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/G15E1/;Beaufort (Tb);Confined
+G15E2;36.165368;-76.650354;11.564112;8.037576;DF Walker Elementary School;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/G15E2/;Yorktown (Ty);Confined
+G15E3;36.165368;-76.650354;11.564112;1.4478;DF Walker Elementary School;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/G15E3/;Surficial (S);Unconfined
+G4X1;36.099542;-75.725501;1.749552;2.04216;Kitty Hawk North;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/G4X1/;Yorktown;Confined
+G50W2;36.088262;-79.547915;197.4729096;8.0772;Gibsonville;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/G50W2/;Bedrock;Unconfined
+G69J1;36.137777;-81.099093;347.1723816;3.346704;Wilkesboro;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/G69J1/;Bedrock;Unconfined
+G9C3;36.150033;-76.132485;0.7205472;0.768096;Big Flatty Creek;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/G9C3/;Surficial;Unconfined
+G9C4;36.150033;-76.132485;0.7449312;5.367528;Big Flatty Creek;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/G9C4/;Castle Hayne;Confined
+G9C6;36.150033;-76.132485;0.6931152;0.740664;Big Flatty Creek;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/G9C6/;Surficial;Unconfined
+GG31J1;33.972439;-77.918429;1.7971008;0.755904;Fort Fisher;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/GG31J1/;Surficial;Unconfined
+GG32T4;33.941987;-78.009783;8.2073496;6.790944;Southport RS 4;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/GG32T4/;Peedee;Confined
+GG32T5;33.941987;-78.009783;8.2805016;6.501384;Southport RS 4;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/GG32T5/;Castle Hayne;Confined
+GG32T6;33.941987;-78.009783;8.1951576;1.563624;Southport RS 4;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/GG32T6/;Surficial;Unconfined
+GG34S2;33.94;-78.2;9.473184;-18.208752;Sunset Harbor North;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/GG34S2/;Lower Cape Fear;Confined
+GG34S3;33.94;-78.2;10.491216;2.45364;Sunset Harbor North;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/GG34S3/;Black Creek;Confined
+GG34S4;33.94;-78.2;10.570464;5.236464;Sunset Harbor North;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/GG34S4/;Peedee;Confined
+GG34S5;33.94;-78.2;10.725912;2.889504;Sunset Harbor North;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/GG34S5/;Peedee;Confined
+GG34S6;33.94;-78.2;11.158728;3.422904;Sunset Harbor North;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/GG34S6/;Peedee;Confined
+GG34S7;33.94;-78.2;10.283952;2.19456;Sunset Harbor North;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/GG34S7/;Surficial;Unconfined
+GG35R3;33.95;-78.29;11.975592;1.4478;Stanbury;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/GG35R3/;Surficial;Unconfined
+GG37B4;33.99;-78.44;20.945856;3.654552;Shallotte;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/GG37B4/;Peedee;Confined
+GG37B5;33.99;-78.44;20.842224;3.445764;Shallotte;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/GG37B5/;Peedee;Confined
+H20T1;36.03293;-77.01276;12.98448;32.269176;Windsor;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/H20T1/;Lower Cretaceous;Confined
+H20T2;36.03293;-77.01276;12.99972;23.68296;Windsor;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/H20T2/;Lower Cape Fear;Confined
+H20T3;36.03293;-77.01276;12.920472;13.115544;Windsor;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/H20T3/;Upper Cape Fear;Confined
+H20T4;36.03293;-77.01276;13.072872;13.5636;Windsor;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/H20T4/;Upper Cape Fear;Confined
+H20T6;36.03293;-77.01276;13.261848;1.891284;Windsor;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/H20T6/;Beaufort;Confined
+H20T7;36.03293;-77.01276;13.4224776;1.339596;Windsor;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/H20T7/;Surficial;Unconfined
+H20T8;36.03293;-77.01276;13.542264;1.46304;Windsor;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/H20T8/;Surficial;Unconfined
+H20T9;36.03293;-77.01276;13.575792;10.216896;Windsor;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/H20T9/;Black Creek;Confined
+H22I3;36.051577;-77.194707;8.3954112;2.3622;Lewiston;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/H22I3/;Surficial;Unconfined
+H22I4;36.051577;-77.194707;8.4289392;33.9852;Lewiston;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/H22I4/;Lower Cretaceous;Confined
+H22I5;36.051577;-77.194707;8.4502752;17.489424;Lewiston;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/H22I5/;Lower Cape Fear;Confined
+H22I6;36.051577;-77.194707;8.2704432;5.026152;Lewiston;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/H22I6/;Upper Cape Fear;Confined
+H4U2;36.013384;-75.675696;2.5216104;11.058144;Wright Memorial;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/H4U2/;Yorktown;Confined
+H4U3;36.013384;-75.675696;2.5795224;1.222248;Wright Memorial;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/H4U3/;Surficial;Unconfined
+H61U1;36.012442;-80.422293;223.9414368;9.241536;Clemmons;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/H61U1/;Bedrock;Unconfined
+HH39J3;33.892777;-78.589421;14.3204184;15.451836;Calabash;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/HH39J3/;Black Creek;Confined
+HH39J4;33.892777;-78.589421;14.1741144;16.148304;Calabash;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/HH39J4/;Black Creek;Confined
+HH39J5;33.892777;-78.589421;14.2655544;22.73808;Calabash;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/HH39J5/;Lower Peedee;Confined
+HH39J8;33.893056;-78.588611;15.0641304;4.576572;Calabash;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/HH39J8/;Surficial (S);Unconfined
+I13X2;35.916795;-76.469963;3.0589728;3.727704;Scuppernong;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/I13X2/;Castle Hayne;Confined
+I13X3;35.916795;-76.469963;3.1138368;8.055864;Scuppernong;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/I13X3/;Upper Cape Fear;Confined
+I13X4;35.916795;-76.469963;3.1351728;4.757928;Scuppernong;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/I13X4/;Beaufort;Confined
+I31I1;35.968628;-77.949174;59.2357464;6.041136;Nashville Well 4;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/I31I1/;Basement rock (Br);Unconfined
+I31M1;35.965442;-77.965058;60.092844;1.740408;Nash County Well No. 3 - Nashville;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/I31M1/;Bedrock;Unconfined
+I35K2;35.965026;-78.258259;84.2028288;2.92608;Bunn;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/I35K2/;Bedrock;Unconfined
+I4W3;35.918385;-75.701641;3.084576;4.242816;Manteo Airport;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/I4W3/;Yorktown;Confined
+I4W5;35.918385;-75.701641;3.121152;2.106168;Manteo Airport;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/I4W5/;Surficial;Unconfined
+I58Y2;35.927592;-80.245938;264.9827568;10.928604;Welcome;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/I58Y2/;Bedrock;Unconfined
+J22P1;35.856521;-77.248202;21.8032584;23.78964;Gold Point;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/J22P1/;Upper Cape Fear;Confined
+J22P2;35.856521;-77.248202;21.8337384;8.891016;Gold Point;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/J22P2/;Black Creek;Confined
+J22P3;35.856521;-77.248202;21.7697304;1.042416;Gold Point;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/J22P3/;Surficial;Unconfined
+J22P4;35.856521;-77.248202;21.8306904;1.898904;Gold Point;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/J22P4/;Yorktown;Confined
+J22P5;35.856521;-77.248202;21.8733624;26.368248;Gold Point;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/J22P5/;Upper Cape Fear;Confined
+J22P6;35.856521;-77.248202;21.8977464;29.42844;Gold Point;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/J22P6/;Lower Cape Fear;Confined
+J22P7;35.856521;-77.248202;21.9465144;27.364944;Gold Point;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/J22P7/;Upper Cape Fear;Confined
+J3H3;35.896805;-75.621381;1.3216128;3.401568;Nags Head;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/J3H3/;Yorktown;Confined
+J3O3;35.880959;-75.665774;1.414272;4.696968;Skyco Road;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/J3O3/;Yorktown;Confined
+J3O4;35.880944;-75.665799;1.551432;1.368552;Skyco Road;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/J3O4/;Surficial;Unconfined
+J3X10;35.8423;-75.639888;2.6642568;2.500884;Wanchese Community Center;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/J3X10/;Yorktown;Confined
+J3X11;35.8423;-75.639888;2.3655528;2.142744;Wanchese Community Center;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/J3X11/;Yorktown;Confined
+J3X12;35.8423;-75.639888;2.6002488;2.383536;Wanchese Community Center;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/J3X12/;Yorktown;Confined
+J3X13;35.8423;-75.639888;2.5941528;5.269992;Wanchese Community Center;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/J3X13/;Yorktown;Confined
+J3X9;35.8423;-75.639888;2.4722328;0.859536;Wanchese Community Center;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/J3X9/;Surficial;Unconfined
+J44D1;35.908611;-79.058056;154.8655272;11.777472;Chi Psi Fraternity, UNC;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/J44D1/;Basement saprolite;Unconfined
+J5M2;35.871094;-75.786051;0.211836;0.65532;Spencer Creek;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/J5M2/;Yorktown;Confined
+J5M3;35.871094;-75.786051;0.352044;0.18288;Spencer Creek;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/J5M3/;Surficial;Unconfined
+J7K5;35.869044;-75.921232;0.6409944;1.746504;East Lake;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/J7K5/;Yorktown;Confined
+J7K6;35.869044;-75.921232;0.7964424;1.560576;East Lake;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/J7K6/;Yorktown;Confined
+J7K7;35.869044;-75.921232;0.7994904;1.545336;East Lake;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/J7K7/;Yorktown;Confined
+J7K8;35.869044;-75.921232;0.6440424;0.743712;East Lake;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/J7K8/;Surficial;Unconfined
+K17A2;35.82388;-76.758325;9.8575368;4.364736;Plymouth;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/K17A2/;Yorktown;Confined
+K17A4;35.82388;-76.758325;9.9063048;9.625584;Plymouth;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/K17A4/;Beaufort;Confined
+K17A5;35.82388;-76.758325;9.9398328;9.611868;Plymouth;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/K17A5/;Castle Hayne;Confined
+K17A8;35.82388;-76.758325;9.9459288;9.6012;Plymouth;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/K17A8/;Castle Hayne;Confined
+K17A9;35.82388;-76.758325;9.9367848;1.839468;Plymouth;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/K17A9/;Surficial;Unconfined
+K21R1;35.7686;-77.129022;17.2815504;1.534668;Bear Grass School;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/K21R1/;Surficial;Unconfined
+K21R2;35.7686;-77.129022;17.3303184;7.28472;Bear Grass School;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/K21R2/;Beaufort;Confined
+K21R3;35.7686;-77.129022;17.2906944;7.485888;Bear Grass School;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/K21R3/;Beaufort;Confined
+K21R4;35.7686;-77.129022;17.3303184;16.64208;Bear Grass School;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/K21R4/;Black Creek;Confined
+K21R5;35.7686;-77.129022;17.3211744;28.59024;Bear Grass School;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/K21R5/;Lower Cretaceous;Confined
+K21R6;35.7686;-77.129022;17.1321984;24.341328;Bear Grass School;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/K21R6/;Lower Cape Fear;Confined
+K21R7;35.7686;-77.129022;16.9767504;20.29968;Bear Grass School;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/K21R7/;Upper Cape Fear;Confined
+K26M1;35.790983;-77.547998;8.4722208;2.57556;Old Sparta;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/K26M1/;Upper Cape Fear;Confined
+K26M2;35.790983;-77.547998;8.4325968;2.947416;Old Sparta;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/K26M2/;Upper Cape Fear;Confined
+K26M3;35.790983;-77.547998;8.4752688;0.798576;Old Sparta;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/K26M3/;Surficial;Unconfined
+K2E2;35.823721;-75.569477;0.664464;1.853184;Bodie Island;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/K2E2/;Yorktown;Confined
+K2E3;35.823721;-75.569477;0.7275576;2.215896;Bodie Island;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/K2E3/;Yorktown;Confined
+K2E4;35.823721;-75.569477;0.82296;0.185928;Bodie Island;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/K2E4/;Yorktown;Confined
+K2E7;35.823721;-75.569477;0.771144;0.496824;Bodie Island;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/K2E7/;Surficial;Unconfined
+L10A2;35.739773;-76.180591;0.6531864;0.664464;Gum Neck;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/L10A2/;Yorktown;Confined
+L10A3;35.739773;-76.180591;0.6775704;0.819912;Gum Neck;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/L10A3/;Castle Hayne;Confined
+L10A5;35.739773;-76.180591;0.6867144;1.185672;Gum Neck;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/L10A5/;Castle Hayne;Confined
+L13I1;35.730718;-76.43438;4.5037248;4.645152;Lake Phelps;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/L13I1/;Castle Hayne;Confined
+L13I2;35.730718;-76.43438;4.7262288;2.054352;Lake Phelps;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/L13I2/;Yorktown;Confined
+L13I3;35.730718;-76.43438;4.5433488;1.987296;Lake Phelps;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/L13I3/;Yorktown;Confined
+L13I4;35.730718;-76.43438;4.5585888;1.301496;Lake Phelps;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/L13I4/;Surficial;Unconfined
+L13I5;35.730718;-76.43438;4.5707808;4.768596;Lake Phelps;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/L13I5/;Castle Hayne;Confined
+L15T1;35.68587;-76.5971;3.084576;2.16408;D Canal Road;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/L15T1/;Surficial;Unconfined
+L15T2;35.68587;-76.5971;2.785872;4.462272;D Canal Road;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/L15T2/;Beaufort;Confined
+L15T3;35.68587;-76.5971;2.746248;1.764792;D Canal Road;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/L15T3/;Surficial;Unconfined
+L15T4;35.68587;-76.5971;2.657856;2.859024;D Canal Road;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/L15T4/;Castle Hayne;Confined
+L15T5;35.68587;-76.5971;2.548128;2.724912;D Canal Road;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/L15T5/;Castle Hayne;Confined
+L24B2;35.74958;-77.36498;16.37538;2.450592;North Pitt High School;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/L24B2/;Black Creek, Upper;Confined
+L24B3;35.74958;-77.36498;16.524732;22.061424;North Pitt High School;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/L24B3/;Lower Cape Fear;Confined
+L24B5;35.74958;-77.36498;16.555212;18.769584;North Pitt High School;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/L24B5/;Upper Cape Fear;Confined
+L24B6;35.74958;-77.36498;16.607028;12.02436;North Pitt High School;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/L24B6/;Black Creek;Confined
+L24B7;35.74958;-77.36498;16.686276;1.603248;North Pitt High School;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/L24B7/;Surficial;Unconfined
+L25P1;35.694659;-77.49045;5.5156608;5.833872;Falkland;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/L25P1/;Lower Cape Fear;Confined
+L25P2;35.694659;-77.49045;5.5461408;8.476488;Falkland;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/L25P2/;Upper Cape Fear;Confined
+L25P3;35.694659;-77.49045;5.4699408;-0.234696;Falkland;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/L25P3/;Black Creek;Confined
+L25P4;35.694659;-77.49045;5.5217568;1.40208;Falkland;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/L25P4/;Yorktown;Confined
+L67U2;35.672084;-80.92762;249.174;10.037064;Troutman;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/L67U2/;Bedrock;Unconfined
+L6Y2;35.674282;-75.905311;1.4270736;1.792224;Stumpy Point;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/L6Y2/;Yorktown;Confined
+L6Y3;35.674282;-75.905311;1.3417296;1.05156;Stumpy Point;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/L6Y3/;Yorktown;Confined
+L6Y4;35.674282;-75.905311;1.3264896;1.130808;Stumpy Point;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/L6Y4/;Surficial;Unconfined
+L76G2;35.717353;-81.725511;315.94044;2.474976;Glen Alpine;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/L76G2/;Basement rock;Unconfined
+M12L1;35.622783;-76.354005;2.9495496;3.172968;New Lake;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/M12L1/;Castle Hayne;Confined
+M12L3;35.622783;-76.354005;2.9190696;6.1722;New Lake;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/M12L3/;Beaufort;Confined
+M12L4;35.622783;-76.354005;2.9983176;4.140708;New Lake;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/M12L4/;Castle Hayne;Confined
+M12L5;35.622783;-76.354005;2.9099256;1.129284;New Lake;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/M12L5/;Yorktown;Confined
+M12L6;35.622783;-76.354005;2.9495496;1.812036;New Lake;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/M12L6/;Yorktown;Confined
+M12L8;35.622783;-76.354005;2.8611576;3.044952;New Lake;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/M12L8/;Castle Hayne;Confined
+M21K2;35.629622;-77.088938;11.0294928;4.538472;Washington;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/M21K2/;Castle Hayne;Confined
+M24L1;35.626957;-77.359692;4.1288208;9.899904;River Park North;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/M24L1/;Lower Cape Fear;Confined
+M25F1;35.639564;-77.483596;24.729948;1.525524;West Research Campus;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/M25F1/;Surficial;Unconfined
+M25F2;35.639564;-77.483596;24.751284;7.083552;West Research Campus;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/M25F2/;Black Creek;Confined
+M25F3;35.639564;-77.483596;24.672036;29.47416;West Research Campus;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/M25F3/;Upper Cape Fear;Confined
+M25F4;35.639564;-77.483596;24.812244;30.100524;West Research Campus;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/M25F4/;Upper Cape Fear;Confined
+M25F5;35.639564;-77.483596;24.830532;31.004256;West Research Campus;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/M25F5/;Upper Cape Fear;Confined
+M25F6;35.639564;-77.483596;24.809196;26.386536;West Research Campus;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/M25F6/;Lower Cape Fear;Confined
+M27U13;35.58361;-77.59893;24.2697;29.943552;Farmville Marlboro Rd.;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/M27U13/;Upper Cape Fear;Confined
+M27U14;35.58361;-77.59893;24.306276;30.033468;Farmville Marlboro Rd.;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/M27U14/;Upper Cape Fear;Confined
+M27U15;35.58361;-77.59893;24.364188;9.721596;Farmville Marlboro Rd.;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/M27U15/;Black Creek;Confined
+M27U16;35.58361;-77.59893;24.431244;2.624328;Farmville Marlboro Rd.;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/M27U16/;Surficial;Unconfined
+M27U17;35.58361;-77.59893;24.495252;2.846832;Farmville Marlboro Rd.;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/M27U17/;Surficial;Unconfined
+M30L1;35.63192;-77.850227;28.4171136;0.938784;Stantonsburg;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/M30L1/;Surficial;Unconfined
+M30L2;35.63192;-77.850227;28.3835856;15.130272;Stantonsburg;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/M30L2/;Yorktown;Confined
+M30L3;35.63192;-77.850227;28.3134816;19.952208;Stantonsburg;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/M30L3/;Upper Cape Fear;Confined
+M30L4;35.63192;-77.850227;28.2342336;19.84248;Stantonsburg;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/M30L4/;Upper Cape Fear;Confined
+M38Q1;35.606899;-78.565459;98.9054664;8.909304;Cleveland;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/M38Q1/;Bedrock;Unconfined
+M53L1;35.629546;-79.769778;232.7382696;8.680704;NC Zoo;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/M53L1/;Bedrock;Unconfined
+M93L1;35.62516;-83.11589;845.402424;1.222248;Beach Grove School Field Well;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/M93L1/;Basement rock;Unconfined
+M93R1;35.61647;-83.1209;861.79152;2.14884;Woody Creek Well;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/M93R1/;Basement rock;Unconfined
+M97S1;35.60802;-83.435688;1494.534679;10.421112;Oconaluftee Overlook;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/M97S1/;Basement rock;Unconfined
+N15X5;35.51658;-76.650011;0.4703064;3.429;Hubs Rec;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/N15X5/;Beaufort;Confined
+N22Y1;35.511845;-77.249886;9.5332296;-0.009144;Blackjack;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/N22Y1/;Yorktown;Confined
+N23P2;35.529964;-77.326652;21.174456;29.4894;D H Conley High School;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/N23P2/;Upper Cape Fear;Confined
+N23P3;35.529964;-77.326652;21.256752;5.971032;D H Conley High School;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/N23P3/;Peedee;Confined
+N23P4;35.529964;-77.326652;21.186648;29.99232;D H Conley High School;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/N23P4/;Upper Cape Fear;Confined
+N23P5;35.529964;-77.326652;21.150072;24.484584;D H Conley High School;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/N23P5/;Black Creek;Confined
+N25Q2;35.521734;-77.476964;23.7527592;6.998208;Winterville;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/N25Q2/;Peedee;Confined
+N41G3;35.555441;-78.808619;93.518736;7.554468;Fuquay Varina;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/N41G3/;Basement rock;Unconfined
+N46H1;35.56524;-79.20924;74.365104;4.559808;General Timber;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/N46H1/;Basement rock;Unconfined
+N95G1;35.56212;-83.312235;682.6977456;2.42316;Smokemont Campground G1;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/N95G1/;Basement rock;Unconfined
+N95G2;35.55595;-83.31153;671.6642904;3.255264;Smokemont Ranger Station;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/N95G2/;Basement rock;Unconfined
+O10W2;35.423562;-76.208471;0.4794504;1.688592;Hydeland;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/O10W2/;Castle Hayne;Confined
+O10W3;35.423562;-76.208471;0.5830824;-0.024384;Hydeland;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/O10W3/;Castle Hayne;Confined
+O10W6;35.423757;-76.208353;0.5434584;0.664464;Hydeland;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/O10W6/;Surficial;Unconfined
+O13F1;35.481758;-76.485723;0.7626096;2.663952;Sladesville;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/O13F1/;Castle Hayne;Confined
+O15N3;35.463721;-76.635736;0.3465576;0.362712;Winsteadville;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/O15N3/;Surficial;Unconfined
+O15N5;35.463721;-76.635736;0.4288536;3.842004;Winsteadville;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/O15N5/;Castle Hayne;Confined
+O17I1;35.473171;-76.78261;1.563624;1.078992;Bath;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/O17I1/;Yorktown;Confined
+O17I2;35.473171;-76.78261;1.856232;4.919472;Bath;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/O17I2/;Castle Hayne;Confined
+O22L1;35.459348;-77.186854;13.8095736;2.005584;Voice of America;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/O22L1/;Castle Hayne;Confined
+O22L2;35.459348;-77.186854;13.8644376;2.01168;Voice of America;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/O22L2/;Surficial;Unconfined
+O23L2;35.46364;-77.275232;12.518136;1.092708;Chicod;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/O23L2/;Surficial;Unconfined
+O23L3;35.46364;-77.275232;12.55776;22.26564;Chicod;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/O23L3/;Upper Cape Fear;Confined
+O23L4;35.46364;-77.275232;12.551664;22.14372;Chicod;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/O23L4/;Black Creek;Confined
+O23L5;35.46364;-77.275232;12.362688;17.757648;Chicod;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/O23L5/;Upper Black Creek;Confined
+O23L6;35.46364;-77.275232;12.414504;2.481072;Chicod;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/O23L6/;Castle Hayne;Confined
+O23L7;35.46364;-77.275232;12.347448;4.501896;Chicod;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/O23L7/;Peedee;Confined
+O23L8;35.46364;-77.275232;12.621768;19.982688;Chicod;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/O23L8/;Lower Cape Fear;Confined
+O27J10;35.482494;-77.597095;23.320248;8.2296;Eastern Correctional Institution;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/O27J10/;Black Creek;Confined
+O27J11;35.482494;-77.597095;23.384256;32.543496;Eastern Correctional Institution;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/O27J11/;Upper Cape Fear;Confined
+O27J8;35.482494;-77.597095;23.341584;1.286256;Eastern Correctional Institution;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/O27J8/;Surficial;Unconfined
+O27J9;35.482494;-77.597095;23.33244;5.004816;Eastern Correctional Institution;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/O27J9/;Yorktown;Confined
+O28K3;35.455055;-77.668767;11.4546888;15.782544;Snow Hill;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/O28K3/;Lower Cape Fear;Confined
+O28K4;35.455055;-77.668767;11.4242088;15.633192;Snow Hill;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/O28K4/;Upper Cape Fear;Confined
+O28K5;35.455055;-77.668767;11.3876328;2.130552;Snow Hill;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/O28K5/;Surficial;Unconfined
+O28K6;35.455055;-77.668767;11.4424968;2.036064;Snow Hill;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/O28K6/;Surficial;Unconfined
+O30J1;35.469778;-77.849778;29.980128;3.648456;Saulston;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/O30J1/;Upper Black Creek;Confined
+O30J2;35.469778;-77.849778;29.91612;6.175248;Saulston;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/O30J2/;Black Creek;Confined
+O30J3;35.469778;-77.849778;29.861256;27.342084;Saulston;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/O30J3/;Upper Cape Fear;Confined
+O30J4;35.469778;-77.849778;30.074616;1.918716;Saulston;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/O30J4/;Surficial;Unconfined
+O87D1;35.490833;-82.644167;721.778592;3.38328;Bent Creek;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/O87D1/;Surficial;Unconfined
+O97L1;35.463206;-83.435249;553.856652;2.161032;Deep Creek Campground;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/O97L1/;Basement rock;Unconfined
+O97W2;35.421774;-83.456734;523.015464;1.61544;Bryson City;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/O97W2/;Basement rock;Unconfined
+P16O2;35.377191;-76.749237;1.1786616;0.996696;Southside Ferry;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/P16O2/;Yorktown;Confined
+P16O3;35.377191;-76.749237;1.1542776;9.656064;Southside Ferry;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/P16O3/;Castle Hayne;Confined
+P16O4;35.377191;-76.749237;1.2152376;10.12698;Southside Ferry;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/P16O4/;Castle Hayne;Confined
+P17E1;35.400578;-76.832719;3.5853624;8.77062;Whitley Farms;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/P17E1/;Castle Hayne;Confined
+P17E2;35.400578;-76.832719;3.7316664;8.9154;Whitley Farms;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/P17E2/;Castle Hayne;Confined
+P17E3;35.400578;-76.832719;3.8231064;2.502408;Whitley Farms;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/P17E3/;Yorktown;Confined
+P17E5;35.40096;-76.83281;3.5853624;2.34696;Whitley Farms;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/P17E5/;Surficial;Unconfined
+P17I12;35.386451;-76.783141;6.7333368;14.433804;Lee Creek;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/P17I12/;Beaufort;Confined
+P17I13;35.386451;-76.783141;6.6449448;3.621024;Lee Creek;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/P17I13/;Surficial;Unconfined
+P17I6;35.386451;-76.783141;6.7394328;13.994892;Lee Creek;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/P17I6/;Castle Hayne;Confined
+P17I7;35.386451;-76.783141;6.6693288;3.971544;Lee Creek;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/P17I7/;Yorktown;Confined
+P17I9;35.38645;-76.783141;6.5504568;13.267944;Lee Creek;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/P17I9/;Black Creek;Confined
+P18V3;35.343707;-76.861047;10.9935264;4.828032;Bonnerton;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/P18V3/;Surficial;Unconfined
+P18V4;35.343707;-76.861047;10.8441744;21.378672;Bonnerton;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/P18V4/;Castle Hayne;Confined
+P18V5;35.343707;-76.861047;10.8167424;21.384768;Bonnerton;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/P18V5/;Castle Hayne;Confined
+P18V6;35.343707;-76.861047;10.7070144;10.148316;Bonnerton;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/P18V6/;Yorktown;Confined
+P18V7;35.343707;-76.861047;10.9660944;22.306788;Bonnerton;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/P18V7/;Black Creek;Confined
+P18V8;35.343707;-76.861047;10.9599984;21.567648;Bonnerton;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/P18V8/;Beaufort;Confined
+P19M4;35.373479;-76.951008;7.546848;10.846308;Cox Crossroads;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/P19M4/;Black Creek;Confined
+P19M5;35.373479;-76.951008;7.385304;7.580376;Cox Crossroads;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/P19M5/;Peedee;Confined
+P19M6;35.373479;-76.951008;7.851648;7.90956;Cox Crossroads;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/P19M6/;Castle Hayne;Confined
+P21G1;35.393509;-77.144768;16.8746424;10.009632;Wilmar Fire Tower;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/P21G1/;Castle Hayne;Confined
+P21K3;35.381484;-77.087762;12.1456704;1.880616;Wilmar;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/P21K3/;Surficial;Unconfined
+P21K4;35.381484;-77.087762;11.9505984;2.749296;Wilmar;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/P21K4/;Castle Hayne;Confined
+P21K5;35.381484;-77.087762;12.166092;21.111972;Wilmar;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/P21K5/;Black Creek;Confined
+P21K6;35.381484;-77.087762;12.156948;2.938272;Wilmar;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/P21K6/;Castle Hayne;Confined
+P21K7;35.381484;-77.087762;12.0539256;5.141976;Wilmar;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/P21K7/;Beaufort;Confined
+P21K9;35.381484;-77.087762;12.1209816;20.714208;Wilmar;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/P21K9/;Black Creek;Confined
+P21N1;35.373997;-77.135278;13.203936;5.568696;Purser;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/P21N1/;Castle Hayne;Confined
+P21N2;35.373997;-77.135278;13.188696;5.431536;Purser;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/P21N2/;Yorktown;Confined
+P21N3;35.373997;-77.135278;13.16736;1.133856;Purser;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/P21N3/;Surficial;Unconfined
+P22U10;35.332429;-77.17249;8.0104488;3.438144;Palmetto Swamp;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/P22U10/;Castle Hayne;Confined
+P22U6;35.332429;-77.17249;7.9616808;19.360896;Palmetto Swamp;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/P22U6/;Black Creek;Confined
+P22U7;35.332429;-77.17249;7.9830168;6.592824;Palmetto Swamp;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/P22U7/;Peedee;Confined
+P22U8;35.332429;-77.17249;8.0013048;3.273552;Palmetto Swamp;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/P22U8/;Peedee;Confined
+P22U9;35.332429;-77.17249;7.8458568;3.203448;Palmetto Swamp;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/P22U9/;Surficial;Unconfined
+P24O1;35.371097;-77.409819;8.7063072;17.803368;Grifton Ball Field;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/P24O1/;Lower Cape Fear;Confined
+P24O2;35.371097;-77.409819;8.7611712;20.20824;Grifton Ball Field;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/P24O2/;Upper Cape Fear;Confined
+P24O3;35.371097;-77.409819;8.6483952;19.883628;Grifton Ball Field;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/P24O3/;Black Creek;Confined
+P24O4;35.371097;-77.409819;8.4350352;3.499104;Grifton Ball Field;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/P24O4/;Peedee;Confined
+P24O5;35.371097;-77.409819;8.5325712;1.200912;Grifton Ball Field;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/P24O5/;Surficial;Unconfined
+P26U4;35.336736;-77.511829;22.5341688;5.138928;Savannah School;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/P26U4/;Peedee;Confined
+P26U7;35.336736;-77.511829;22.5524568;32.59836;Savannah School;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/P26U7/;Black Creek;Confined
+P26U8;35.336736;-77.511829;22.5981768;29.416248;Savannah School;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/P26U8/;Upper Black Creek;Confined
+P38I1;35.393419;-78.51945;62.493144;29.538168;I-40/I-95;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/P38I1/;Basement rock;Unconfined
+P51O1;35.37269;-79.65738;148.2239352;7.239;Williams Old Home Place;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/P51O1/;Basement rock;Unconfined
+P54H1;35.38378;-79.88012;163.747704;7.927848;Densons Creek Park;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/P54H1/;Basement rock;Unconfined
+Q15U3;35.255031;-76.595863;2.3847552;6.04266;Hobucken;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Q15U3/;Castle Hayne;Confined
+Q15U4;35.255031;-76.595863;1.8361152;5.510784;Hobucken;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Q15U4/;Castle Hayne;Confined
+Q15U5;35.255031;-76.595863;2.1470112;5.980176;Hobucken;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Q15U5/;Castle Hayne;Confined
+Q15U6;35.255031;-76.595863;2.1348192;1.944624;Hobucken;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Q15U6/;Yorktown;Confined
+Q15U7;35.255031;-76.595863;1.6776192;9.81456;Hobucken;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Q15U7/;Peedee;Confined
+Q15U8;35.255031;-76.595863;2.3237952;2.161032;Hobucken;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Q15U8/;Surficial;Unconfined
+Q16G3;35.315752;-76.727595;3.0065472;12.347448;Godley;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Q16G3/;Castle Hayne;Confined
+Q16G4;35.315752;-76.727595;3.0156912;12.365736;Godley;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Q16G4/;Castle Hayne;Confined
+Q16G5;35.315752;-76.727595;2.9821632;2.459736;Godley;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Q16G5/;Yorktown;Confined
+Q16G6;35.315752;-76.727595;2.9516832;1.286256;Godley;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Q16G6/;Surficial;Unconfined
+Q16G7;35.315752;-76.727595;3.1772352;16.197072;Godley;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Q16G7/;Peedee;Confined
+Q16G8;35.315752;-76.727595;3.1437072;12.431268;Godley;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Q16G8/;Castle Hayne;Confined
+Q17D1;35.3261;-76.803341;1.915668;12.652248;Aurora II;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Q17D1/;Castle Hayne;Confined
+Q17D2;35.3261;-76.803341;1.900428;0.597408;Aurora II;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Q17D2/;Surficial;Unconfined
+Q17D3;35.3261;-76.803341;1.848612;0.44196;Aurora II;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Q17D3/;Yorktown;Confined
+Q17D4;35.3261;-76.803341;1.82118;9.863328;Aurora II;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Q17D4/;Black Creek;Confined
+Q17D5;35.3261;-76.803341;1.537716;12.813792;Aurora II;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Q17D5/;Beaufort;Confined
+Q25D11;35.327137;-77.478071;18.693384;3.229356;Graingers;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Q25D11/;Surficial;Unconfined
+Q25D12;35.327137;-77.478071;18.635472;11.94816;Graingers;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Q25D12/;Peedee;Confined
+Q27R10;35.269344;-77.618238;13.0106928;5.559552;Kinston Yard;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Q27R10/;Peedee;Confined
+Q27R4;35.269344;-77.618238;13.1295648;4.978908;Kinston Yard;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Q27R4/;Peedee;Confined
+Q27R5;35.269344;-77.618238;13.2606288;18.022824;Kinston Yard;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Q27R5/;Black Creek;Confined
+Q27R6;35.269344;-77.618238;13.2057648;17.413224;Kinston Yard;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Q27R6/;Black Creek;Confined
+Q27R7;35.269344;-77.618238;13.3581648;16.789908;Kinston Yard;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Q27R7/;Black Creek;Confined
+Q29I1;35.310242;-77.778333;29.29128;3.651504;La Grange;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Q29I1/;Surficial;Unconfined
+Q29I2;35.310242;-77.778333;29.2473888;4.532376;La Grange;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Q29I2/;Upper Black Creek (Kubc);Confined
+Q29I3;35.310242;-77.778333;29.163264;26.450544;La Grange;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Q29I3/;Black Creek;Confined
+Q29I4;35.310242;-77.778333;28.959048;27.870912;La Grange;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Q29I4/;Upper Cape Fear;Confined
+Q30R1;35.28194;-77.8708;19.8052944;16.70304;Spring Creek Elementary School;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Q30R1/;Upper Cape Fear (Kucf);Confined
+Q30R2;35.28194;-77.8708;19.8632064;2.237232;Spring Creek Elementary School;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Q30R2/;Black Creek (Kbc);Confined
+Q30R3;35.28194;-77.8708;19.7229984;3.304032;Spring Creek Elementary School;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Q30R3/;Black Creek (Kbc);Confined
+Q30R4;35.28194;-77.8708;19.8997824;3.730752;Spring Creek Elementary School;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Q30R4/;Surficial (S);Unconfined
+Q51N1;35.29;-79.65;203.170536;10.366248;Williams Tenant House;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Q51N1/;Surficial;Unconfined
+Q66C1;35.318611;-80.875555;218.614752;1.450848;Hornets Nest Park;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Q66C1/;Basement saprolite;Unconfined
+Q94I1;35.31352;-83.1871;633.8401344;0.841248;CC Old Well;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Q94I1/;Basement saprolite;Unconfined
+Q94J1;35.31221;-83.1806;656.636736;5.54736;Stillwell Building;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Q94J1/;Basement rock;Unconfined
+R102P1;35.187315;-83.913966;521.735304;9.124188;Marble;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/R102P1/;Basement rock;Unconfined
+R102P2;35.189214;-83.913877;523.0645368;2.029968;Marble Substation;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/R102P2/;Basement saprolite;Unconfined
+R17I1;35.219985;-76.773926;3.7898832;2.69748;Bay City;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/R17I1/;Surficial;Unconfined
+R17I2;35.219985;-76.773926;3.85572;9.116568;Bay City;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/R17I2/;Castle Hayne;Confined
+R17I3;35.219985;-76.773926;3.8721792;9.412224;Bay City;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/R17I3/;Castle Hayne;Confined
+R23X10;35.172305;-77.311178;13.4252208;25.54224;Cove City;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/R23X10/;Lower Cape Fear;Confined
+R23X2;35.172305;-77.311178;13.4922768;1.72212;Cove City;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/R23X2/;Castle Hayne;Confined
+R23X4;35.172305;-77.311178;13.4861808;9.314688;Cove City;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/R23X4/;Peedee;Confined
+R23X5;35.172305;-77.311178;13.6568688;1.807464;Cove City;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/R23X5/;Surficial;Unconfined
+R23X6;35.172305;-77.311178;12.9497328;1.237488;Cove City;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/R23X6/;Castle Hayne;Confined
+R23X7;35.172305;-77.311178;13.0472688;2.45364;Cove City;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/R23X7/;Beaufort;Confined
+R23X8;35.172305;-77.311178;13.2911088;32.671512;Cove City;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/R23X8/;Black Creek;Confined
+R23X9;35.172305;-77.311178;13.3886448;32.531304;Cove City;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/R23X9/;Upper Cape Fear;Confined
+R26N5;35.209201;-77.564518;20.1768456;10.46988;Southwood School;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/R26N5/;Peedee;Confined
+R29T4;35.19616;-77.752824;30.5799744;20.997672;Moss Hill;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/R29T4/;Upper Cape Fear;Confined
+R29T5;35.19616;-77.752824;29.4765984;4.40436;Moss Hill;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/R29T5/;Surficial;Unconfined
+R29T6;35.19616;-77.752824;29.4674544;4.885944;Moss Hill;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/R29T6/;Peedee;Confined
+R29T7;35.19616;-77.752824;30.7506624;20.75688;Moss Hill;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/R29T7/;Black Creek;Confined
+R29T8;35.19616;-77.752824;30.8756304;20.927568;Moss Hill;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/R29T8/;Black Creek;Confined
+R31C1;35.244508;-77.963034;41.9218872;12.324588;Sleepy Creek;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/R31C1/;Black Creek;Confined
+R31C3;35.244508;-77.963034;42.1291512;7.583424;Sleepy Creek;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/R31C3/;Upper Cape Fear;Confined
+R47Q2;35.19673;-79.299547;107.4642504;31.25724;Hog Island;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/R47Q2/;Upper Cape Fear;Confined
+R47Q3;35.19673;-79.299547;107.2417464;4.453128;Hog Island;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/R47Q3/;Surficial;Unconfined
+R47Q4;35.19673;-79.299547;107.6684664;5.495544;Hog Island;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/R47Q4/;Surficial;Unconfined
+R48Y4;35.17;-79.41;176.421288;24.920448;Southern Pines 1;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/R48Y4/;Surficial;Unconfined
+R49C3;35.239973;-79.4594;128.9977608;7.624572;Eastwood;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/R49C3/;Surficial;Unconfined
+R82I1;35.23009;-82.188257;334.9752;8.506968;Columbus;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/R82I1/;Basement rock;Unconfined
+S15Y1;35.089831;-76.655676;1.8614136;1.56972;Whortonsville;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/S15Y1/;Yorktown;Confined
+S15Y2;35.089831;-76.655676;1.9071336;5.13588;Whortonsville;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/S15Y2/;Peedee;Confined
+S15Y3;35.089831;-76.655676;1.6236696;2.14884;Whortonsville;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/S15Y3/;Castle Hayne;Confined
+S15Y4;35.089831;-76.655676;1.9528536;2.398776;Whortonsville;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/S15Y4/;Castle Hayne;Confined
+S15Y6;35.089831;-76.655676;1.9711416;2.075688;Whortonsville;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/S15Y6/;Castle Hayne;Confined
+S15Y7;35.089831;-76.655676;1.8187416;1.510284;Whortonsville;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/S15Y7/;Surficial;Unconfined
+S18U10;35.086676;-76.835587;11.707368;10.863072;Arapahoe;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/S18U10/;Yorktown;Confined
+S18U11;35.086676;-76.835587;12.036552;1.837944;Arapahoe;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/S18U11/;Surficial;Unconfined
+S18U12;35.086676;-76.835587;12.320016;13.018008;Arapahoe;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/S18U12/;Castle Hayne;Confined
+S18U3;35.086676;-76.835587;12.32916;10.0584;Arapahoe;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/S18U3/;Yorktown;Confined
+S18U4;35.086676;-76.835587;11.903964;14.15034;Arapahoe;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/S18U4/;Peedee;Confined
+S18U5;35.086676;-76.835587;11.907012;12.365736;Arapahoe;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/S18U5/;Castle Hayne;Confined
+S18U6;35.086676;-76.835587;11.830812;12.45108;Arapahoe;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/S18U6/;Castle Hayne;Confined
+S18U7;35.086676;-76.835587;11.809476;9.787128;Arapahoe;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/S18U7/;Yorktown;Confined
+S18U8;35.086676;-76.835587;12.318492;12.825984;Arapahoe;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/S18U8/;Castle Hayne;Confined
+S18U9;35.086676;-76.835587;12.13866;12.624816;Arapahoe;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/S18U9/;Castle Hayne;Confined
+S22J10;35.137475;-77.171389;8.4563712;21.31314;Clarks;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/S22J10/;Black Creek;Confined
+S22J12;35.137475;-77.171389;7.9534512;21.718524;Clarks;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/S22J12/;Upper Cape Fear;Confined
+S22J4;35.137475;-77.171389;7.9900272;3.457956;Clarks;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/S22J4/;Surficial;Unconfined
+S22J5;35.137475;-77.171389;8.1241392;6.6294;Clarks;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/S22J5/;Castle Hayne;Confined
+S22J8;35.137475;-77.171389;8.3618832;6.786372;Clarks;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/S22J8/;Beaufort;Confined
+S22J9;35.137475;-77.171389;8.4015072;7.63524;Clarks;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/S22J9/;Peedee;Confined
+S26I1;35.139489;-77.530205;17.7491136;8.007096;Beaver Creek;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/S26I1/;Peedee;Confined
+S26I2;35.139489;-77.530205;17.8679856;27.503628;Beaver Creek;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/S26I2/;Lower Cape Fear;Confined
+S26I3;35.139489;-77.530205;17.9289456;1.200912;Beaver Creek;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/S26I3/;Surficial;Unconfined
+S26I4;35.139489;-77.530205;17.8679856;13.257276;Beaver Creek;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/S26I4/;Upper Black Creek (Kubc);Confined
+S26I5;35.139489;-77.530205;17.8679856;26.42616;Beaver Creek;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/S26I5/;Upper Cape Fear;Confined
+S26I6;35.139489;-77.530205;17.9899056;26.62428;Beaver Creek;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/S26I6/;Black Creek;Confined
+S27D1;35.159436;-77.633824;38.0804928;21.851112;Woodington School;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/S27D1/;Peedee;Confined
+S33C1;35.163138;-78.129968;33.5072736;-1.552956;Calypso;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/S33C1/;Black Creek (Kbc);Confined
+S33C2;35.163138;-78.129968;34.3454736;-0.775716;Calypso;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/S33C2/;Upper Cape Fear (Kucf);Confined
+S33C3;35.163138;-78.129968;34.1595456;-0.344424;Calypso;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/S33C3/;Surficial (S);Unconfined
+S33C4;35.163138;-78.129968;33.8090256;-1.068324;Calypso;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/S33C4/;Upper Cape Fear (Kucf);Confined
+S35Q5;35.113686;-78.316614;54.1489392;2.432304;Halls;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/S35Q5/;Surficial;Unconfined
+S35Q8;35.113686;-78.316614;54.2800032;7.549896;Halls;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/S35Q8/;Black Creek;Confined
+S35Q9;35.113686;-78.316614;54.4171632;36.054792;Halls;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/S35Q9/;Upper Cape Fear;Confined
+S48H2;35.145158;-79.371585;144.8979576;9.2964;Weymouth Woods;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/S48H2/;Surficial;Unconfined
+S49D2;35.16;-79.48;147.578064;20.004024;Viena Vista;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/S49D2/;Surficial;Unconfined
+S50F4;35.15;-79.57;149.544024;18.640044;Roseland;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/S50F4/;Surficial;Unconfined
+S50F5;35.15;-79.57;149.476968;6.003036;Roseland;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/S50F5/;Surficial;Unconfined
+T23X1;35.00664;-77.30248;13.6181592;4.584192;Olivers Crossroad;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/T23X1/;Castle Hayne;Confined
+T24J1;35.06575;-77.34527;7.5398376;16.440912;Jones Middle School;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/T24J1/;Lower Cape Fear;Confined
+T24J2;35.06575;-77.34527;7.5550776;2.406396;Jones Middle School;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/T24J2/;Beaufort;Confined
+T24J3;35.06575;-77.34527;7.2929496;1.633728;Jones Middle School;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/T24J3/;Surficial;Unconfined
+T24J4;35.06575;-77.34527;7.1679816;1.50876;Jones Middle School;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/T24J4/;Surficial;Unconfined
+T24J5;35.06575;-77.34527;7.6922376;4.139184;Jones Middle School;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/T24J5/;Peedee;Confined
+T24J6;35.06575;-77.34527;7.1405496;24.191976;Jones Middle School;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/T24J6/;Black Creek;Confined
+T24J7;35.06575;-77.34527;7.2777096;20.351496;Jones Middle School;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/T24J7/;Upper Cape Fear;Confined
+T29G10;35.056327;-77.807143;38.6681472;25.109424;Pink Hill;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/T29G10/;Lower Cape Fear;Confined
+T29G11;35.056327;-77.807143;38.7199632;1.11252;Pink Hill;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/T29G11/;Surficial;Unconfined
+T29G12;35.056327;-77.807143;38.6346192;24.585168;Pink Hill;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/T29G12/;Upper Cape Fear;Confined
+T29G3;35.056327;-77.807143;38.3846832;17.35074;Pink Hill;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/T29G3/;Peedee;Confined
+T29G4;35.056327;-77.807143;38.4121152;24.359616;Pink Hill;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/T29G4/;Black Creek;Confined
+T29G5;35.056327;-77.807143;38.5523232;24.146256;Pink Hill;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/T29G5/;Black Creek;Confined
+T48I2;35.05481;-79.359448;105.2532312;1.210056;McCain Sanitorium;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/T48I2/;Black Creek;Confined
+T50R3;35.023181;-79.546755;125.6708688;17.166336;Hoffman;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/T50R3/;Black Creek;Confined
+T50R4;35.023181;-79.546755;125.1770928;14.880336;Hoffman;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/T50R4/;Surficial;Unconfined
+T50R5;35.023181;-79.546755;125.1252768;13.168884;Hoffman;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/T50R5/;Surficial;Unconfined
+T50R6;35.023181;-79.546755;124.6345488;13.19784;Hoffman;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/T50R6/;Surficial;Unconfined
+U18Q3;34.933879;-76.890064;7.6830936;7.854696;Cherry Point;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/U18Q3/;Castle Hayne;Confined
+U18Q4;34.933879;-76.890064;7.6922376;7.876032;Cherry Point;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/U18Q4/;Castle Hayne;Confined
+U18Q5;34.933879;-76.890064;7.6251816;5.894832;Cherry Point;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/U18Q5/;Yorktown;Confined
+U18Q6;34.933879;-76.890064;7.5032616;2.974848;Cherry Point;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/U18Q6/;Surficial;Unconfined
+U19O5;34.956514;-76.988776;7.5980544;3.258312;Croatan;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/U19O5/;Surficial;Unconfined
+U26J1;34.969429;-77.503222;20.0838816;3.118104;Comfort;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/U26J1/;Castle Hayne;Confined
+U26J10;34.969429;-77.503222;20.2332336;28.934664;Comfort;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/U26J10/;Upper Cape Fear;Confined
+U26J4;34.969429;-77.503222;20.0747376;42.464736;Comfort;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/U26J4/;Black Creek;Confined
+U26J5;34.969429;-77.503222;20.1875136;18.358104;Comfort;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/U26J5/;Peedee;Confined
+U26J8;34.969429;-77.503222;20.0930256;1.847088;Comfort;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/U26J8/;Surficial;Unconfined
+U26J9;34.969429;-77.503222;20.1844656;3.84048;Comfort;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/U26J9/;Beaufort;Confined
+U34B10;34.988899;-78.189357;41.3997648;2.898648;Turkey;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/U34B10/;Surficial (S);Unconfined
+U34B11;34.988899;-78.189357;41.3906208;12.691872;Turkey;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/U34B11/;Black Creek (Kbc);Confined
+U34B12;34.988899;-78.189357;41.4973008;13.783056;Turkey;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/U34B12/;Black Creek (Kbc);Confined
+U34B13;34.988899;-78.189357;41.4485328;13.953744;Turkey;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/U34B13/;Upper Cape Fear (Kucf);Confined
+U34B14;34.988899;-78.189357;41.3997648;14.90472;Turkey;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/U34B14/;Lower Cape Fear (Klcf);Confined
+U35I1;34.981452;-78.281327;45.4152;3.867912;Clinton;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/U35I1/;Surficial;Unconfined
+U35I2;34.981452;-78.281327;45.4152;37.5666;Clinton;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/U35I2/;Lower Cape Fear;Confined
+U35I3;34.981452;-78.281327;45.4152;37.569648;Clinton;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/U35I3/;Lower Cape Fear;Confined
+U35I4;34.981452;-78.281327;45.4152;14.642592;Clinton;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/U35I4/;Upper Black Creek;Confined
+U35I5;34.981452;-78.281327;45.4152;36.201096;Clinton;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/U35I5/;Upper Cape Fear;Confined
+U35I6;34.981452;-78.281327;45.4152;18.223992;Clinton;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/U35I6/;Black Creek;Confined
+U37D1;34.995133;-78.478227;50.5361448;3.439668;Pondberry Bay;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/U37D1/;Surficial (S);Unconfined
+U37D2;34.995133;-78.478227;50.7342648;45.69714;Pondberry Bay;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/U37D2/;Upper Cape Fear (Kucf);Confined
+U37D3;34.995133;-78.478227;50.6032008;11.518392;Pondberry Bay;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/U37D3/;Black Creek (Kbc);Confined
+U40Y1;34.932655;-78.739156;40.2460968;31.83636;Cedar Creek Fire Tower;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/U40Y1/;Upper Cape Fear;Confined
+U40Y2;34.932655;-78.739156;40.2003768;15.95628;Cedar Creek Fire Tower;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/U40Y2/;Black Creek;Confined
+U40Y3;34.932655;-78.739156;40.1973288;6.458712;Cedar Creek Fire Tower;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/U40Y3/;Upper Black Creek;Confined
+U40Y4;34.932655;-78.739156;40.3832568;1.053084;Cedar Creek Fire Tower;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/U40Y4/;Surficial;Unconfined
+U41A1;34.987708;-78.75479;41.3701992;2.420112;Seabrook School;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/U41A1/;Surficial;Unconfined
+U46E6;34.992801;-79.24488;83.5084944;11.359896;Raeford;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/U46E6/;Surficial;Unconfined
+U48V1;34.92052;-79.35417;69.2575704;2.932176;Chalk Banks;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/U48V1/;Surficial (S);Unconfined
+U48V2;34.92052;-79.35417;69.0289704;-0.521208;Chalk Banks;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/U48V2/;Upper Cape Fear (Kucf);Confined
+U48V3;34.92052;-79.35417;68.5473864;0.204216;Chalk Banks;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/U48V3/;Black Creek (Kbc);Confined
+U52R1;34.94744;-79.70934;89.8559544;2.767584;Thrower Wells;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/U52R1/;Basement saprolite;Unconfined
+U62A1;34.987809;-80.503237;169.1146224;6.269736;Monroe;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/U62A1/;Basement rock;Unconfined
+V12I3;34.88528;-76.354791;5.0468784;3.79476;Atlantic;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/V12I3/;Castle Hayne;Confined
+V12I4;34.88528;-76.354791;4.9584864;3.97764;Atlantic;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/V12I4/;Castle Hayne;Confined
+V12I5;34.88528;-76.354791;4.8182784;1.441704;Atlantic;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/V12I5/;Surficial;Unconfined
+V12I6;34.88528;-76.354791;5.0804064;3.572256;Atlantic;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/V12I6/;Yorktown;Confined
+V23X1;34.837042;-77.303278;13.2581904;2.153412;Deppe;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/V23X1/;Surficial;Unconfined
+V23X2;34.837042;-77.303278;13.3343904;9.332976;Deppe;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/V23X2/;Peedee;Confined
+V23X3;34.837042;-77.303278;13.2459984;3.907536;Deppe;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/V23X3/;Beaufort;Confined
+V23X4;34.837042;-77.303278;13.2002784;2.084832;Deppe;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/V23X4/;Surficial;Unconfined
+V23X5;34.837042;-77.303278;13.2703824;2.188464;Deppe;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/V23X5/;Surficial;Unconfined
+V23X6;34.837042;-77.303278;13.3100064;2.215896;Deppe;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/V23X6/;Surficial;Unconfined
+V23X7;34.837042;-77.303278;13.2246624;27.99588;Deppe;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/V23X7/;Black Creek;Confined
+V32V1;34.847826;-78.021278;25.8891024;5.007864;Rose Hill;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/V32V1/;Peedee;Confined
+V32V10;34.84829;-78.02155;25.8189984;10.917936;Rose Hill;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/V32V10/;Lower Cape Fear;Confined
+V32V11;34.84822;-78.02143;26.1237984;11.024616;Rose Hill;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/V32V11/;Upper Cape Fear;Confined
+V32V3;34.847826;-78.021278;25.9256784;2.916936;Rose Hill;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/V32V3/;Surficial;Unconfined
+V32V6;34.847826;-78.021278;25.9561584;11.981688;Rose Hill;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/V32V6/;Black Creek;Confined
+V32V8;34.85;-78.02;24.97836;1.085088;Rose Hill;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/V32V8/;Surficial;Unconfined
+V32V9;34.847826;-78.021278;25.9653024;2.036064;Rose Hill;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/V32V9/;Surficial;Unconfined
+V35T6;34.853611;-78.2625;19.904964;-0.140208;Six Runs;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/V35T6/;Upper Cape Fear;Confined
+V35T7;34.853611;-78.2625;19.42338;-0.466344;Six Runs;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/V35T7/;Black Creek;Confined
+V39O1;34.882533;-78.657536;35.3568;19.406616;Bushy Lake;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/V39O1/;Upper Cape Fear;Confined
+V39O2;34.882533;-78.657536;35.3568;1.469136;Bushy Lake;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/V39O2/;Surficial;Unconfined
+V39O3;34.882533;-78.657536;35.3568;5.916168;Bushy Lake;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/V39O3/;Surficial;Unconfined
+V42V1;34.845259;-78.850955;46.1281272;6.7818;Du Pont;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/V42V1/;Black Creek;Confined
+V42V2;34.845259;-78.850955;46.0610712;5.396484;Du Pont;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/V42V2/;Surficial;Unconfined
+V42V3;34.845259;-78.850955;46.0580232;6.733032;Du Pont;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/V42V3/;Black Creek;Confined
+V42V4;34.845259;-78.850955;46.0549752;51.028092;Du Pont;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/V42V4/;Upper Cape Fear CU;Confined
+V42V5;34.845259;-78.850955;46.0001112;58.539888;Du Pont;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/V42V5/;Upper Cape Fear;Confined
+V42V6;34.845259;-78.850955;45.9574392;5.428488;Du Pont;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/V42V6/;Surficial;Unconfined
+V45U2;34.843151;-79.087593;55.813452;14.785848;Rex Rennert School;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/V45U2/;Upper Cape Fear;Confined
+V45U3;34.84;-79.09;56.09844;1.621536;Rex Rennert School;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/V45U3/;Black Creek;Confined
+V45U4;34.84;-79.09;56.452008;1.95072;Rex Rennert School;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/V45U4/;Black Creek;Confined
+V45U6;34.84;-79.09;56.007;1.517904;Rex Rennert School;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/V45U6/;Black Creek;Confined
+V45U7;34.84;-79.09;56.016144;1.274064;Rex Rennert School;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/V45U7/;Black Creek;Confined
+W25F10;34.810394;-77.487225;7.653528;3.480816;Well Field 258;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/W25F10/;Surficial;Unconfined
+W25F11;34.810394;-77.487225;7.766304;6.989064;Well Field 258;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/W25F11/;Peedee;Confined
+W25F6;34.810394;-77.487225;7.63524;3.371088;Well Field 258;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/W25F6/;Surficial;Unconfined
+W25F8;34.810394;-77.487225;7.693152;36.109656;Well Field 258;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/W25F8/;Black Creek;Confined
+W25F9;34.810394;-77.487225;7.684008;2.459736;Well Field 258;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/W25F9/;Surficial;Unconfined
+W25O1;34.788212;-77.486397;12.1496328;7.882128;Burton Park Boulevard;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/W25O1/;Upper Cape Fear (Kucf);Confined
+W25O2;34.788212;-77.486397;12.1496328;33.099756;Burton Park Boulevard;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/W25O2/;Black Creek (Kbc);Confined
+W25O3;34.788212;-77.486397;12.1801128;31.629096;Burton Park Boulevard;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/W25O3/;Black Creek (Kbc);Confined
+W26C1;34.831947;-77.543871;16.2833304;7.290816;Onslow Quarry 18;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/W26C1/;Surficial;Unconfined
+W26C2;34.831947;-77.543871;16.0760664;12.918948;Onslow Quarry 18;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/W26C2/;Castle Hayne;Confined
+W26C3;34.831947;-77.543871;15.8627064;17.772888;Onslow Quarry 18;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/W26C3/;Castle Hayne;Confined
+W26C4;34.828017;-77.545416;19.100292;7.626096;Onslow Quarry 14;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/W26C4/;Surficial;Unconfined
+W26C5;34.828017;-77.545416;19.176492;6.601968;Onslow Quarry 14;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/W26C5/;Castle Hayne;Confined
+W26C6;34.828017;-77.545416;19.249644;17.637252;Onslow Quarry 14;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/W26C6/;Castle Hayne;Confined
+W29D11;34.82593;-77.816446;12.934188;1.61544;Chinquapin Elementary School;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/W29D11/;Surficial (S);Unconfined
+W29D12;34.82593;-77.816446;12.934188;-3.60426;Chinquapin Elementary School;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/W29D12/;Lower Cape Fear (Klcf);Confined
+W29D13;34.82593;-77.816446;12.864084;12.310872;Chinquapin Elementary School;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/W29D13/;Upper Cape Fear (Kucf);Confined
+W41X1;34.760652;-78.802587;44.7181224;26.99766;Smithfield McNair House;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/W41X1/;Black Creek;Confined
+W41X2;34.760652;-78.802587;44.8217544;60.17514;Smithfield McNair House;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/W41X2/;Upper Cape Fear;Confined
+X17J3;34.723029;-76.753385;2.5767792;2.924556;Camp Glenn;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/X17J3/;Castle Hayne;Confined
+X17J5;34.723029;-76.753385;2.6804112;3.095244;Camp Glenn;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/X17J5/;Castle Hayne;Confined
+X17J7;34.723018;-76.753503;2.5920192;1.316736;Camp Glenn;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/X17J7/;Surficial;Unconfined
+X19O1;34.715696;-76.98606;8.6301072;7.662672;WCWC;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/X19O1/;Castle Hayne;Confined
+X19O2;34.715696;-76.98606;8.7977472;7.976616;WCWC;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/X19O2/;Castle Hayne;Confined
+X19O3;34.715696;-76.98606;8.8495632;8.132064;WCWC;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/X19O3/;Castle Hayne;Confined
+X19O4;34.715696;-76.98606;8.8221312;7.819644;WCWC;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/X19O4/;Castle Hayne;Confined
+X19O5;34.715696;-76.98606;8.8434672;2.862072;WCWC;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/X19O5/;Yorktown;Confined
+X19O6;34.715696;-76.98606;8.8708992;1.825752;WCWC;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/X19O6/;Surficial;Unconfined
+X22H1;34.72964;-77.2104;11.4769392;5.4864;Parkertown Road;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/X22H1/;Castle Hayne;Confined
+X22H2;34.72964;-77.2104;11.6262912;3.206496;Parkertown Road;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/X22H2/;Surficial;Unconfined
+X22H3;34.72964;-77.2104;11.6720112;5.580888;Parkertown Road;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/X22H3/;Castle Hayne;Confined
+X22H4;34.72964;-77.2104;11.8640352;6.467856;Parkertown Road;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/X22H4/;Beaufort;Confined
+X22H5;34.72964;-77.2104;11.7207792;7.68096;Parkertown Road;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/X22H5/;Peedee;Confined
+X22H6;34.72964;-77.2104;11.7451632;22.73808;Parkertown Road;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/X22H6/;Black Creek;Confined
+X23N1;34.701212;-77.305598;9.9041712;4.498848;Wallace Creek;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/X23N1/;Castle Hayne;Confined
+X24E1;34.738;-77.409222;6.228588;6.803136;Montford Point;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/X24E1/;Castle Hayne;Confined
+X24E2;34.738056;-77.409139;6.158484;7.952232;Montford Point;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/X24E2/;Castle Hayne;Confined
+X24E3;34.738056;-77.409222;6.298692;2.63652;Montford Point;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/X24E3/;Surficial (S);Unconfined
+X24G1;34.717963;-77.391888;4.3391328;4.597908;Paradise Point;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/X24G1/;Castle Hayne;Confined
+X24G2;34.717963;-77.391888;4.4031408;3.62712;Paradise Point;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/X24G2/;Surficial;Unconfined
+X24G3;34.717963;-77.391888;4.0190928;3.203448;Paradise Point;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/X24G3/;Surficial (S);Unconfined
+X24S1;34.692198;-77.35118;5.9932824;4.428744;Hadnot Point;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/X24S1/;Surficial;Unconfined
+X24S2;34.692198;-77.35118;6.2005464;14.621256;Hadnot Point;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/X24S2/;Black Creek;Confined
+X24S4;34.692738;-77.351433;7.2655176;4.971288;Hadnot Point;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/X24S4/;Peedee;Confined
+X24S5;34.692738;-77.351433;7.4788776;5.541264;Hadnot Point;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/X24S5/;Castle Hayne;Confined
+X24S6;34.692738;-77.351433;7.4575416;5.154168;Hadnot Point;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/X24S6/;Castle Hayne;Confined
+X24S7;34.692738;-77.351433;7.4941176;5.084064;Hadnot Point;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/X24S7/;Surficial;Unconfined
+X25C1;34.738396;-77.457525;5.591556;1.61544;Camp Geiger;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/X25C1/;Surficial;Unconfined
+X25C2;34.738396;-77.457525;5.87502;2.9718;Camp Geiger;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/X25C2/;Peedee;Confined
+X25C3;34.738396;-77.457525;5.801868;7.577328;Camp Geiger;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/X25C3/;Castle Hayne;Confined
+X25U1;34.676463;-77.427538;7.8214728;6.65988;Ragged Point;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/X25U1/;Castle Hayne;Confined
+X25W1;34.672123;-77.463527;16.300704;2.627376;Verona Loop;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/X25W1/;Surficial (S);Unconfined
+X25W2;34.672123;-77.463527;16.300704;9.765792;Verona Loop;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/X25W2/;Castle Hayne (Tch);Confined
+X25W3;34.672123;-77.463527;16.300704;11.573256;Verona Loop;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/X25W3/;Castle Hayne (Tch);Confined
+X25W4;34.672123;-77.463527;16.300704;10.53084;Verona Loop;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/X25W4/;Peedee (Kpd);Confined
+X38Y2;34.683326;-78.581487;19.3816224;8.10768;Turnbull State Forest RS1;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/X38Y2/;Black Creek (Kbc);Confined
+X39T6;34.687286;-78.583437;20.7611472;3.834384;Turnbull State Forest RS2;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/X39T6/;Surficial (S);Unconfined
+X44K4;34.709867;-79.001589;44.7098928;0.841248;Magnolia School;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/X44K4/;Surficial;Unconfined
+X44K7;34.71;-79;44.796456;1.164336;Magnolia School;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/X44K7/;Black Creek;Confined
+X44K8;34.71;-79;44.872656;36.048696;Magnolia School;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/X44K8/;Upper Cape Fear;Confined
+X44K9;34.71;-79;44.854368;36.74364;Magnolia School;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/X44K9/;Upper Cape Fear;Confined
+X47K3;34.71;-79.26;53.464968;4.093464;Red Bank;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/X47K3/;Upper Cape Fear;Confined
+Y23R1;34.60716;-77.28795;13.2612384;4.532376;Sneads Ferry;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Y23R1/;Castle Hayne (Tch);Confined
+Y23R2;34.60716;-77.28795;13.1149344;8.44296;Sneads Ferry;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Y23R2/;Peedee;Confined
+Y24T1;34.601093;-77.33836;9.8093784;3.157728;Marines Road;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Y24T1/;Surficial (S);Unconfined
+Y24T2;34.601093;-77.33836;9.8002344;6.147816;Marines Road;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Y24T2/;Castle Hayne (Tch);Confined
+Y24T3;34.601093;-77.33836;9.8154744;5.995416;Marines Road;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Y24T3/;Castle Hayne (Tch);Confined
+Y24T4;34.601093;-77.33836;9.8398584;6.487668;Marines Road;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Y24T4/;Castle Hayne (Tch);Confined
+Y24T5;34.601093;-77.33836;9.6966024;6.803136;Marines Road;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Y24T5/;Beaufort (Tb);Confined
+Y25Q1;34.611365;-77.482799;20.2118976;11.786616;Folkstone;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Y25Q1/;Upper Tertiary (Tu);Confined
+Y25Q3;34.611365;-77.482799;20.1856848;12.993624;Folkstone;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Y25Q3/;Castle Hayne;Confined
+Y25Q4;34.611365;-77.482799;20.3015088;14.529816;Folkstone;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Y25Q4/;Peedee;Confined
+Y25Q6;34.611365;-77.482799;20.2484736;3.218688;Folkstone;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Y25Q6/;Surficial;Unconfined
+Y25Q7;34.611365;-77.482799;20.4526896;14.31036;Folkstone;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Y25Q7/;Castle Hayne;Confined
+Y25Q8;34.611365;-77.482799;20.6233776;21.50364;Folkstone;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Y25Q8/;Black Creek;Confined
+Y30S3;34.604749;-77.85607;5.541264;1.801368;Burgaw;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Y30S3/;Peedee;Confined
+Y30S7;34.604749;-77.85607;5.602224;4.559808;Burgaw;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Y30S7/;Black Creek;Confined
+Y34P2;34.60453;-78.241805;9.1403424;0.24384;Ivanhoe;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Y34P2/;Black Creek;Confined
+Y34P3;34.60453;-78.241805;9.1464384;4.078224;Ivanhoe;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Y34P3/;Surficial;Unconfined
+Y34P4;34.60453;-78.241805;8.6922864;-0.006096;Ivanhoe;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Y34P4/;Black Creek;Confined
+Y34P7;34.604516;-78.24184;9.0641424;0.621792;Ivanhoe;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Y34P7/;Peedee;Confined
+Y34P9;34.604516;-78.24184;8.9848944;-0.24384;Ivanhoe;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Y34P9/;Upper Cape Fear;Confined
+Y40G1;34.65;-78.73;43.54068;41.525952;Dublin;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Y40G1/;Upper Cape Fear;Confined
+Y40G2;34.65;-78.73;43.498008;12.39012;Dublin;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Y40G2/;Black Creek;Confined
+Y40G3;34.65;-78.73;43.598592;9.485376;Dublin;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Y40G3/;Upper Black Creek;Confined
+Y40G4;34.65;-78.73;43.339512;1.679448;Dublin;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Y40G4/;Surficial;Unconfined
+Y40G5;34.65;-78.73;43.336464;4.209288;Dublin;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Y40G5/;Surficial;Unconfined
+Y42F10;34.64;-78.92;42.476928;15.749016;Littlefield School;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Y42F10/;Black Creek;Confined
+Y42F11;34.644442;-78.915974;42.7539912;10.908792;Littlefield School;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Y42F11/;Upper Black Creek;Confined
+Y42F12;34.644442;-78.915974;42.7417992;1.511808;Littlefield School;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Y42F12/;Surficial;Unconfined
+Y42F9;34.644442;-78.915974;42.6960792;40.02786;Littlefield School;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Y42F9/;Upper Cape Fear (Kucf);Confined
+Y44O4;34.623512;-79.075071;37.5824496;1.763268;Robeson Correctional Center;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Y44O4/;Surficial;Unconfined
+Y44O6;34.623512;-79.075071;37.3690896;19.434048;Robeson Correctional Center;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Y44O6/;Upper Cape Fear;Confined
+Z23C1;34.569422;-77.293105;3.5993832;0.725424;HWY 172;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Z23C1/;Castle Hayne (Tch);Confined
+Z23C2;34.569422;-77.293105;3.8340792;1.871472;HWY 172;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Z23C2/;Castle Hayne (Tch);Confined
+Z23C3;34.569422;-77.293105;3.8615112;1.853184;HWY 172;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Z23C3/;Castle Hayne (Tch);Confined
+Z23C4;34.569422;-77.293105;3.9041832;1.856232;HWY 172;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Z23C4/;Surficial (S);Unconfined
+Z29N1;34.548333;-77.816111;3.5484816;1.117092;Holly Shelter;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Z29N1/;Surficial (S);Unconfined
+Z29N2;34.548333;-77.816111;3.9386256;2.39268;Holly Shelter;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Z29N2/;Upper Cape Fear (Kucf);Confined
+Z29N3;34.548333;-77.816111;3.8746176;0.751332;Holly Shelter;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Z29N3/;Peedee (Kpd);Confined
+Z29N4;34.548333;-77.816111;3.9934896;2.34696;Holly Shelter;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Z29N4/;Black Creek (Kbc);Confined
+Z41U1;34.506753;-78.754306;32.1786504;1.6383;Bladenboro;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Z41U1/;Surficial;Unconfined
+Z41U2;34.506753;-78.754306;32.2639944;25.395936;Bladenboro;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Z41U2/;Hybrid (H);Confined
+Z41U3;34.51;-78.75;32.40024;2.100072;Bladenboro;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Z41U3/;Peedee;Confined
+Z47R1;34.532009;-79.296151;43.4556408;11.329416;Rowland;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Z47R1/;Upper Cape Fear;Confined
+Z47R2;34.532009;-79.296151;43.4617368;15.172944;Rowland;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Z47R2/;Black Creek;Confined
+Z47R3;34.532009;-79.296151;43.4983128;14.743176;Rowland;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Z47R3/;Black Creek;Confined
+Z47R4;34.532009;-79.296151;43.4952648;9.378696;Rowland;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Z47R4/;Peedee;Confined
+Z47R5;34.532009;-79.296151;43.6202328;2.95656;Rowland;https://cida.usgs.gov/ngwmn/provider/NCDWR/site/Z47R5/;Surficial;Unconfined
